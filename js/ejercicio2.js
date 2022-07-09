@@ -36,6 +36,6 @@ switch(nota){
         document.write("Sobresaliente");
         break
     default:
-        document.write("La nota elegida no es valida")
+        alert ("La nota elegida no es valida")
 }
 
